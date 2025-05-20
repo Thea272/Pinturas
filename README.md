@@ -1,2 +1,3 @@
 # Pinturas
-Calcular litros de pinturas
+'Centigrados'
+Calcular litros de pinturas y Conversión de temperaturas.
